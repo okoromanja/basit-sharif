@@ -2,6 +2,7 @@
 
 ## Personal
 
+- 🌐 [LinkedIn](https://www.linkedin.com/in/basitsharif)
 - 🌐 [GitHub](https://github.com/basit-sharif)
 - 🐦 [Twitter](https://twitter.com/abdulbasitgggg)
 - 💻 [Facebook](https://www.facebook.com/basitshariff)
